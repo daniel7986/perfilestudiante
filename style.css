@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f7fb;
+    color: #24364b;
+}
+
+header {
+    background: linear-gradient(120deg, #10243d, #087f91);
+    color: white;
+    text-align: center;
+    padding: 50px 20px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+section {
+    background-color: white;
+    margin: 25px;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 5px 15px #cccccc;
+}
+
+h2 {
+    color: #087f91;
+}
